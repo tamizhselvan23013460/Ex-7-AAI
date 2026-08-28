@@ -1,6 +1,6 @@
 <H3>NAME : Tamizhselvan B</H3>
 <H3>REGISTER NO. : 212223230225 </H3>
-<H3>EX. NO.7</H3>
+<H3>EX. NO.9</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: to perform automatic text summarization using Natural Language Processing (NLP) techniques. </H3> 
@@ -78,7 +78,7 @@ print(summary)
 
 <H3>Output</H3>
 
-<img width="1091" height="369" alt="image" src="https://github.com/user-attachments/assets/b418ddaf-1434-4338-a56f-54dc607619ee" />
+<img width="1257" height="367" alt="image" src="https://github.com/user-attachments/assets/26f969e3-a056-4c1b-a87e-de9ed1f1bf29" />
 
 
 <H3>Result:</H3>
